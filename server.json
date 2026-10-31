@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.faizu526/github-copilot-mcp",
+  "title": "GitHub Copilot Tools",
+  "description": "Official GitHub tools for AI Copilot: code context, repo access, and workflow automation.",
+  "repository": {
+    "url": "https://github.com/faizu526/github-copilot-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://personnel-designing-partially-aids.trycloudflare.com/mcp/mcp"
+    }
+  ],
+  "license": "MIT"
+}
