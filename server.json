@@ -11,7 +11,7 @@
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://century-normal-suzuki-also.trycloudflare.com/mcp/mcp"
+      "url": "https://doll-sources-booking-beta.trycloudflare.com/mcp/mcp"
     }
   ],
   "license": "MIT"
